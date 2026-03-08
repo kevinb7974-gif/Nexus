@@ -1,5 +1,1068 @@
-!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>NEXUS</title>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ib3JiIiBjeD0iNDAlIiBjeT0iMzUlIiByPSI2MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYThlZGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDAlIiBzdG9wLWNvbG9yPSIjMDBkNGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBhMGEyZSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDBkNGZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImlubmVyIiBjeD0iMzUlIiBjeT0iMzAlIiByPSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI4Ii8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMwNDA4MTIiIHJ4PSI4MCIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjAwIiBmaWxsPSJ1cmwoI2dsb3cpIiBmaWx0ZXI9InVybCgjYmx1cikiLz4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjE4MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBkNGZmIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW9wYWNpdHk9IjAuMyIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGQ0ZmYiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMiIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTMwIiBmaWxsPSJ1cmwoI29yYikiLz4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEzMCIgZmlsbD0idXJsKCNpbm5lcikiLz4KICA8bGluZSB4MT0iMjU2IiB5MT0iOTAiIHgyPSIyNTYiIHkyPSIxMzAiIHN0cm9rZT0iIzAwZDRmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2Utb3BhY2l0eT0iMC42Ii8+CiAgPGxpbmUgeDE9IjI1NiIgeTE9IjM4MiIgeDI9IjI1NiIgeTI9IjQyMiIgc3Ryb2tlPSIjMDBkNGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1vcGFjaXR5PSIwLjYiLz4KICA8bGluZSB4MT0iOTAiIHkxPSIyNTYiIHgyPSIxMzAiIHkyPSIyNTYiIHN0cm9rZT0iIzAwZDRmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2Utb3BhY2l0eT0iMC42Ii8+CiAgPGxpbmUgeDE9IjM4MiIgeTE9IjI1NiIgeDI9IjQyMiIgeTI9IjI1NiIgc3Ryb2tlPSIjMDBkNGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1vcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSIyNTYiIHk9IjI4NSIgZm9udC1mYW1pbHk9IkFyaWFsIEJsYWNrLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExMCIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0iIzA0MDgxMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgb3BhY2l0eT0iMC44Ij5OPC90ZXh0Pgo8L3N2Zz4K">
-<meta name="theme-color" content="#040812">
-<meta name="apple-mobile-web-app-capable" content="yes"
-<meta name="apple-mobile-web-app-title" content="NEXUS"<style>@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Share+Tech+Mono&family=Exo+2:ital,wght@0,300;0,400;0,600;1,300&display=swap');:root{--bg:#040812;--bg2:#070d1a;--panel:#0a1628;--border:#1a3a5c;--glow:#00d4ff;--glow2:#ff6b35;--glow3:#a855f7;--text:#c8e0f0;--dim:#4a6a8a;--white:#e8f4ff;--danger:#ff4444;--success:#00ff88}*{margin:0;padding:0;box-sizing:border-box}html,body{height:100%;overflow:hidden}body{background:var(--bg);color:var(--text);font-family:'Share Tech Mono',monospace;position:relative}body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(0,212,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,212,255,0.03) 1px,transparent 1px);background-size:40px 40px;animation:gridScroll 20s linear infinite;pointer-events:none;z-index:0}@keyframes gridScroll{from{background-position:0 0}to{background-position:40px 40px}}body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.07) 2px,rgba(0,0,0,0.07) 4px);pointer-events:none;z-index:1}#api-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.85);z-index:9999;align-items:center;justify-content:center;backdrop-filter:blur(4px)}#api-modal.show{display:flex}.modal-box{background:var(--panel);border:1px solid var(--glow);box-shadow:0 0 40px rgba(0,212,255,0.2),inset 0 0 40px rgba(0,212,255,0.02);padding:2.5rem;max-width:500px;width:90%;position:relative}.modal-box::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,var(--glow),transparent);animation:scanH 2s ease-in-out infinite}@keyframes scanH{0%,100%{opacity:0.3}50%{opacity:1}}.modal-title{font-family:'Orbitron',monospace;font-size:1.1rem;font-weight:700;color:var(--glow);letter-spacing:0.15em;margin-bottom:1rem;text-shadow:0 0 20px var(--glow)}.modal-sub{font-size:0.72rem;color:var(--dim);line-height:1.8;margin-bottom:1.5rem}.modal-sub a{color:var(--glow)}.modal-input{width:100%;background:#020810;border:1px solid var(--border);color:var(--glow);font-family:'Share Tech Mono',monospace;font-size:0.82rem;padding:0.8rem 1rem;outline:none;transition:border 0.2s;margin-bottom:0.5rem}.modal-input:focus{border-color:var(--glow);box-shadow:0 0 10px rgba(0,212,255,0.15)}.modal-error{display:none;color:var(--danger);font-size:0.65rem;margin-bottom:0.8rem}.modal-btns{display:flex;gap:1rem;margin-top:1rem}.btn-primary{background:linear-gradient(135deg,rgba(0,212,255,0.15),rgba(0,212,255,0.05));border:1px solid var(--glow);color:var(--glow);font-family:'Orbitron',monospace;font-size:0.65rem;letter-spacing:0.15em;padding:0.7rem 1.5rem;cursor:pointer;text-transform:uppercase;transition:all 0.2s}.btn-primary:hover{background:rgba(0,212,255,0.2);box-shadow:0 0 15px rgba(0,212,255,0.3)}.btn-sec{background:transparent;border:1px solid var(--border);color:var(--dim);font-family:'Orbitron',monospace;font-size:0.65rem;letter-spacing:0.15em;padding:0.7rem 1.5rem;cursor:pointer;text-transform:uppercase;transition:all 0.2s}.btn-sec:hover{border-color:var(--dim);color:var(--text)}#app{display:grid;grid-template-columns:260px 1fr 280px;grid-template-rows:60px 1fr;height:100vh;position:relative;z-index:2}#header{grid-column:1/-1;background:rgba(7,13,26,0.95);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 1.5rem;gap:2rem;backdrop-filter:blur(10px);position:relative}#header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,var(--glow),var(--glow3),transparent);opacity:0.5}.logo{font-family:'Orbitron',monospace;font-size:1.4rem;font-weight:900;letter-spacing:0.3em;color:var(--glow);text-shadow:0 0 30px var(--glow),0 0 60px rgba(0,212,255,0.3)}.logo span{color:var(--glow3)}.header-sub{font-size:0.6rem;letter-spacing:0.15em;color:var(--dim);text-transform:uppercase}.header-right{margin-left:auto;display:flex;align-items:center;gap:1.5rem}#api-status-btn{font-size:0.62rem;letter-spacing:0.1em;cursor:pointer;padding:0.4rem 0.8rem;border:1px solid var(--border);color:var(--dim);background:transparent;font-family:'Share Tech Mono',monospace;transition:all 0.2s;text-transform:uppercase}#api-status-btn:hover{border-color:var(--glow);color:var(--glow)}#api-status-btn.ok{border-color:var(--success);color:var(--success)}.pulse-dot{width:8px;height:8px;border-radius:50%;background:var(--success);box-shadow:0 0 8px var(--success);animation:blink 2s ease-in-out infinite}.pulse-dot.off{background:var(--danger);box-shadow:0 0 8px var(--danger);animation:none}@keyframes blink{0%,100%{opacity:1}50%{opacity:0.3}}#left-panel{background:rgba(10,22,40,0.9);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden}.panel-tabs{display:flex;border-bottom:1px solid var(--border)}.ptab{flex:1;padding:0.7rem 0.5rem;font-size:0.55rem;letter-spacing:0.1em;text-transform:uppercase;text-align:center;cursor:pointer;color:var(--dim);border-bottom:2px solid transparent;transition:all 0.2s;background:none;border-top:none;border-left:none;border-right:none;font-family:'Share Tech Mono',monospace}.ptab.active{color:var(--glow);border-bottom-color:var(--glow)}.tab-content{display:none;flex:1;overflow-y:auto;flex-direction:column}.tab-content.active{display:flex}.persona-item{padding:1rem 1.2rem;cursor:pointer;border-bottom:1px solid rgba(26,58,92,0.4);transition:all 0.2s;position:relative;overflow:hidden}.persona-item::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:transparent;transition:background 0.2s}.persona-item:hover{background:rgba(0,212,255,0.04)}.persona-item.active{background:rgba(0,212,255,0.08)}.persona-item.active::before{background:var(--glow);box-shadow:0 0 10px var(--glow)}.pi-icon{font-size:1.4rem;margin-bottom:0.3rem}.pi-name{font-family:'Orbitron',monospace;font-size:0.7rem;font-weight:700;color:var(--white);letter-spacing:0.1em;margin-bottom:0.2rem}.persona-item.active .pi-name{color:var(--glow);text-shadow:0 0 10px var(--glow)}.pi-role{font-size:0.58rem;color:var(--dim);margin-bottom:0.5rem}.pi-tags{display:flex;flex-wrap:wrap;gap:0.3rem}.pi-tag{font-size:0.5rem;padding:0.15rem 0.4rem;border:1px solid rgba(26,58,92,0.8);color:var(--dim);letter-spacing:0.05em}.hist-item{padding:0.8rem 1.2rem;border-bottom:1px solid rgba(26,58,92,0.3);cursor:pointer;transition:background 0.2s}.hist-item:hover{background:rgba(0,212,255,0.04)}.hist-persona{font-size:0.55rem;color:var(--glow3);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:0.2rem}.hist-q{font-size:0.65rem;color:var(--text);line-height:1.4}.hist-time{font-size:0.5rem;color:var(--dim);margin-top:0.3rem}.hist-fav{float:right;color:var(--dim);cursor:pointer;font-size:0.8rem}.hist-fav.on{color:#ffd700;text-shadow:0 0 8px #ffd700}.empty-state{padding:2rem 1.2rem;text-align:center;font-size:0.65rem;color:var(--dim);line-height:1.8}#center{display:flex;flex-direction:column;overflow:hidden;background:var(--bg);position:relative}#doc-banner{display:none;background:rgba(168,85,247,0.1);border-bottom:1px solid rgba(168,85,247,0.3);padding:0.6rem 1.5rem;align-items:center;gap:0.8rem;font-size:0.65rem;color:var(--glow3)}#doc-banner.show{display:flex}.doc-name{flex:1;letter-spacing:0.05em}.doc-close{cursor:pointer;color:var(--dim);font-size:0.8rem;transition:color 0.2s;background:none;border:none;font-family:'Share Tech Mono',monospace}.doc-close:hover{color:var(--danger)}#messages{flex:1;overflow-y:auto;padding:1.5rem;display:flex;flex-direction:column;gap:1.2rem;scroll-behavior:smooth}#messages::-webkit-scrollbar{width:4px}#messages::-webkit-scrollbar-track{background:transparent}#messages::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}.msg{max-width:85%;animation:msgIn 0.3s ease-out}@keyframes msgIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}.msg.user{align-self:flex-end}.msg.ai{align-self:flex-start}.msg-header{font-size:0.55rem;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:0.4rem;display:flex;align-items:center;gap:0.5rem}.msg.user .msg-header{justify-content:flex-end;color:var(--glow2)}.msg.ai .msg-header{color:var(--glow)}.msg-bubble{padding:1rem 1.2rem;font-size:0.82rem;line-height:1.8;font-family:'Exo 2',sans-serif;position:relative}.msg.user .msg-bubble{background:rgba(255,107,53,0.1);border:1px solid rgba(255,107,53,0.3);border-radius:2px 0 2px 2px;color:var(--white)}.msg.ai .msg-bubble{background:rgba(0,212,255,0.06);border:1px solid rgba(0,212,255,0.2);border-radius:0 2px 2px 2px;color:var(--text)}.msg.ai .msg-bubble::before{content:'';position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,var(--glow),transparent);opacity:0.4}#welcome{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem;text-align:center;gap:1.5rem}.welcome-logo{font-family:'Orbitron',monospace;font-size:3.5rem;font-weight:900;color:var(--glow);text-shadow:0 0 40px var(--glow),0 0 80px rgba(0,212,255,0.2);animation:logoGlow 3s ease-in-out infinite}@keyframes logoGlow{0%,100%{text-shadow:0 0 40px var(--glow),0 0 80px rgba(0,212,255,0.2)}50%{text-shadow:0 0 60px var(--glow),0 0 120px rgba(0,212,255,0.4),0 0 200px rgba(0,212,255,0.1)}}.welcome-sub{font-size:0.72rem;color:var(--dim);letter-spacing:0.2em;text-transform:uppercase}.welcome-hint{font-size:0.68rem;color:var(--dim);line-height:1.8;max-width:400px;font-family:'Exo 2',sans-serif;font-style:italic}#loading{display:none;align-self:flex-start;padding:1rem 1.5rem;background:rgba(0,212,255,0.05);border:1px solid rgba(0,212,255,0.15);align-items:center;gap:1rem;font-size:0.65rem;color:var(--dim);letter-spacing:0.1em}#loading.show{display:flex}.radar{width:24px;height:24px;border-radius:50%;border:2px solid rgba(0,212,255,0.3);border-top-color:var(--glow);animation:spin 1s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}#input-area{border-top:1px solid var(--border);padding:1rem 1.5rem;background:rgba(7,13,26,0.95);backdrop-filter:blur(10px)}.input-row{display:flex;gap:0.8rem;align-items:flex-end}#msg-input{flex:1;background:#020810;border:1px solid var(--border);color:var(--white);caret-color:var(--glow);font-family:'Share Tech Mono',monospace;font-size:0.82rem;padding:0.8rem 1rem;resize:none;outline:none;min-height:44px;max-height:150px;transition:border 0.2s;line-height:1.5}#msg-input:focus{border-color:var(--glow);box-shadow:0 0 15px rgba(0,212,255,0.1)}#msg-input::placeholder{color:var(--dim)}.send-btn{background:linear-gradient(135deg,rgba(0,212,255,0.2),rgba(0,212,255,0.05));border:1px solid var(--glow);color:var(--glow);cursor:pointer;width:44px;height:44px;display:flex;align-items:center;justify-content:center;font-size:1.1rem;transition:all 0.2s;flex-shrink:0}.send-btn:hover{background:rgba(0,212,255,0.25);box-shadow:0 0 20px rgba(0,212,255,0.3)}.send-btn:disabled{opacity:0.3;cursor:not-allowed}.input-tools{display:flex;gap:0.5rem;margin-bottom:0.7rem;align-items:center}.tool-btn{font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;padding:0.3rem 0.7rem;cursor:pointer;transition:all 0.2s;font-family:'Share Tech Mono',monospace;background:none}.tool-btn.upload{border:1px solid rgba(168,85,247,0.4);color:var(--glow3)}.tool-btn.upload:hover{border-color:var(--glow3);box-shadow:0 0 10px rgba(168,85,247,0.2)}.tool-btn.clear{border:1px solid rgba(255,68,68,0.3);color:rgba(255,68,68,0.6)}.tool-btn.clear:hover{border-color:var(--danger);color:var(--danger)}.hint-text{font-size:0.55rem;color:var(--dim);margin-left:auto}#file-input{display:none}#right-panel{background:rgba(10,22,40,0.9);border-left:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden}.rp-section{padding:1rem 1.2rem;border-bottom:1px solid rgba(26,58,92,0.4)}.rp-title{font-family:'Orbitron',monospace;font-size:0.6rem;letter-spacing:0.15em;color:var(--glow);text-transform:uppercase;margin-bottom:0.8rem;display:flex;align-items:center;gap:0.5rem}.rp-title::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,var(--border),transparent)}#doc-info{display:none}#doc-info.show{display:block}.doc-stats{display:grid;grid-template-columns:1fr 1fr;gap:0.5rem}.stat-box{background:rgba(0,212,255,0.05);border:1px solid rgba(0,212,255,0.1);padding:0.5rem;text-align:center}.stat-val{font-size:1rem;color:var(--glow);font-family:'Orbitron',monospace;font-weight:700}.stat-lbl{font-size:0.5rem;color:var(--dim);letter-spacing:0.1em;text-transform:uppercase}.sugg-list{display:flex;flex-direction:column;gap:0.5rem;overflow-y:auto;flex:1;padding:1rem 1.2rem}.sugg-item{padding:0.6rem 0.8rem;cursor:pointer;border:1px solid rgba(26,58,92,0.5);font-size:0.65rem;color:var(--dim);line-height:1.5;transition:all 0.2s;position:relative}.sugg-item::before{content:'▶';font-size:0.5rem;color:var(--glow);margin-right:0.5rem;opacity:0;transition:opacity 0.2s}.sugg-item:hover{border-color:rgba(0,212,255,0.3);color:var(--text);background:rgba(0,212,255,0.04)}.sugg-item:hover::before{opacity:1}#fav-list{flex:1;overflow-y:auto;padding:0.5rem}.fav-item{padding:0.7rem 1rem;margin-bottom:0.4rem;border:1px solid rgba(255,215,0,0.15);background:rgba(255,215,0,0.03);font-size:0.65rem;color:var(--text);cursor:pointer;transition:all 0.2s;line-height:1.5}.fav-item:hover{border-color:rgba(255,215,0,0.4)}.fav-persona{font-size:0.5rem;color:#ffd700;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:0.2rem}.tab-content::-webkit-scrollbar,#messages::-webkit-scrollbar,#fav-list::-webkit-scrollbar,.sugg-list::-webkit-scrollbar{width:3px}.tab-content::-webkit-scrollbar-thumb,#messages::-webkit-scrollbar-thumb,#fav-list::-webkit-scrollbar-thumb,.sugg-list::-webkit-scrollbar-thumb{background:var(--border)}.corner-tl,.corner-br{position:absolute;width:12px;height:12px;pointer-events:none}.corner-tl{top:0;left:0;border-top:2px solid var(--glow);border-left:2px solid var(--glow)}.corner-br{bottom:0;right:0;border-bottom:2px solid var(--glow);border-right:2px solid var(--glow)}</style></head><body><div id="api-modal"><div class="modal-box"><div class="corner-tl"></div><div class="corner-br"></div><div class="modal-title">// AUTHENTIFICATION REQUISE</div><p class="modal-sub">Pour utiliser NEXUS, entrez votre clé API Anthropic.<br><br>→ Créez-en une sur <a href="https://console.anthropic.com" target="_blank">console.anthropic.com</a> → API Keys<br>→ La clé est stockée localement, jamais partagée.</p><input id="api-key-input" class="modal-input" type="password" placeholder="sk-ant-api03-..."><div id="api-error" class="modal-error">⚠ Format invalide — la clé doit commencer par "sk-"</div><div class="modal-btns"><button class="btn-primary" onclick="confirmKey()">CONNECTER</button><button class="btn-sec" onclick="closeModal()">ANNULER</button></div></div></div><div id="app"><div id="header"><div class="logo">NEX<span>US</span></div><div class="header-sub">Intelligence Critique Augmentée // v2.0</div><div class="header-right"><div class="pulse-dot" id="status-dot"></div><button id="api-status-btn" onclick="openModal()">CONFIGURER CLÉ API</button></div></div><div id="left-panel"><div class="panel-tabs"><button class="ptab active" onclick="switchTab('personas')">AGENTS</button><button class="ptab" onclick="switchTab('history')">HISTORIQUE</button><button class="ptab" onclick="switchTab('favs')">FAVORIS ★</button></div><div class="tab-content active" id="tab-personas"><div class="persona-item active" onclick="selectPersona('socrate')" id="pi-socrate"><div class="pi-icon">⚗️</div><div class="pi-name">SOCRATE</div><div class="pi-role">Maïeutique & déconstruction</div><div class="pi-tags"><span class="pi-tag">Questions</span><span class="pi-tag">Ironie</span><span class="pi-tag">Dialectique</span></div></div><div class="persona-item" onclick="selectPersona('nietzsche')" id="pi-nietzsche"><div class="pi-icon">🔨</div><div class="pi-name">LE MARTEAU</div><div class="pi-role">Renverse les idoles & tabous</div><div class="pi-tags"><span class="pi-tag">Aphorisme</span><span class="pi-tag">Provocation</span><span class="pi-tag">Lucidité</span></div></div><div class="persona-item" onclick="selectPersona('journaliste')" id="pi-journaliste"><div class="pi-icon">🔍</div><div class="pi-name">L'ENQUÊTEUR</div><div class="pi-role">Faits, preuves, contradictions</div><div class="pi-tags"><span class="pi-tag">Investigation</span><span class="pi-tag">Sources</span><span class="pi-tag">Angles morts</span></div></div></div><div class="tab-content" id="tab-history"><div id="hist-container"><div class="empty-state" id="hist-empty">Aucune conversation.<br>Posez votre première question.</div></div></div><div class="tab-content" id="tab-favs"><div id="fav-list"><div class="empty-state" id="fav-empty">Aucun favori.<br>Cliquez ★ sur une réponse.</div></div></div></div><div id="center"><div id="doc-banner"><span>📄</span><span class="doc-name" id="doc-name-banner">—</span><button class="doc-close" onclick="clearDoc()">✕ Retirer</button></div><div id="messages"><div id="welcome"><div class="welcome-logo">NEXUS</div><div class="welcome-sub">Intelligence Critique Sans Filtre</div><div class="welcome-hint">Choisissez un agent, posez une question ou uploadez un document.</div></div><div id="loading"><div class="radar"></div><span>ANALYSE EN COURS...</span></div></div><div id="input-area"><div class="input-tools"><button class="tool-btn upload" onclick="document.getElementById('file-input').click()">📄 UPLOAD DOC</button><button class="tool-btn clear" onclick="clearConv()">⟳ RESET</button><input type="file" id="file-input" accept=".pdf,.txt,.md" onchange="loadFile(event)"><span class="hint-text">Entrée pour envoyer</span></div><div class="input-row"><textarea id="msg-input" rows="1" placeholder="Posez votre question..."></textarea><button class="send-btn" id="send-btn" onclick="sendMessage()">➤</button></div></div></div><div id="right-panel"><div class="rp-section" id="doc-info"><div class="rp-title">Document</div><div class="doc-stats"><div class="stat-box"><div class="stat-val" id="doc-words">—</div><div class="stat-lbl">Mots</div></div><div class="stat-box"><div class="stat-val" id="doc-chars">—</div><div class="stat-lbl">Caractères</div></div></div></div><div class="rp-section"><div class="rp-title">Suggestions</div></div><div class="sugg-list" id="sugg-list"></div></div></div><script>let currentPersona='socrate',conversation=[],docContent=null,docName=null,history=JSON.parse(localStorage.getItem('nexus_history')||'[]'),favorites=JSON.parse(localStorage.getItem('nexus_favorites')||'[]');const personas={socrate:{name:'SOCRATE',icon:'⚗️',color:'#00d4ff',suggestions:['La démocratie mérite-t-elle d\'être défendue si la majorité se trompe ?','Peut-on être libre dans une société de surveillance ?','Le progrès est-il un mythe confortable ?','Aimer quelqu\'un, est-ce vraiment le vouloir libre ?'],system:`Tu es Socrate. Tu déconstruis toutes les certitudes par la maïeutique et l'ironie socratique.\nSTYLE : Provocateur, acide, déstabilisant.\nRÈGLES :\n- Aucun sujet tabou\n- Tu conclus toujours par une question\n- Réponses en français, 300-400 mots\n- Si un document est fourni, tu l'analyses avec sens critique`},nietzsche:{name:'LE MARTEAU',icon:'🔨',color:'#a855f7',suggestions:['La pitié est-elle une vertu ou une faiblesse déguisée ?','Les médias fabriquent-ils le consentement des masses ?','L\'égalitarisme est-il l\'ennemi de l\'excellence ?','Peut-on avoir raison contre tout le monde ?'],system:`Tu es Le Marteau, philosophe dans la veine de Nietzsche.\nSTYLE : Aphoristique, brutal, lucide.\nRÈGLES :\n- Aucune vache sacrée\n- Formules tranchantes\n- Réponses en français, 300-400 mots`},journaliste:{name:"L'ENQUÊTEUR",icon:'🔍',color:'#ff6b35',suggestions:['Les réseaux sociaux censurent-ils politiquement ?','Les pharmas ont-elles intérêt à ne pas guérir ?','Le fact-checking est-il lui-même biaisé ?','Qui bénéficie de l\'immigration de masse ?'],system:`Tu es un journaliste d'investigation sans peur.\nSTYLE : Factuel, rigoureux, courageux.\nRÈGLES :\n- Tu examines toutes les thèses\n- Pas de vache sacrée\n- Réponses en français, 300-400 mots`}};function getKey(){return localStorage.getItem('nexus_key')||''}function openModal(){document.getElementById('api-modal').classList.add('show');document.getElementById('api-key-input').value=getKey()}function closeModal(){document.getElementById('api-modal').classList.remove('show')}function confirmKey(){const v=document.getElementById('api-key-input').value.trim();if(!v.startsWith('sk-')){document.getElementById('api-error').style.display='block';return}localStorage.setItem('nexus_key',v);document.getElementById('api-error').style.display='none';closeModal();updateStatus()}function updateStatus(){const k=getKey(),btn=document.getElementById('api-status-btn'),dot=document.getElementById('status-dot');if(k){btn.textContent='🔑 CLÉ ACTIVE';btn.classList.add('ok');dot.classList.remove('off')}else{btn.textContent='CONFIGURER CLÉ API';btn.classList.remove('ok');dot.classList.add('off')}}function switchTab(t){document.querySelectorAll('.ptab').forEach((b,i)=>b.classList.toggle('active',['personas','history','favs'][i]===t));document.querySelectorAll('.tab-content').forEach((c,i)=>c.classList.toggle('active',['tab-personas','tab-history','tab-favs'][i]==='tab-'+t))}function selectPersona(p){currentPersona=p;document.querySelectorAll('.persona-item').forEach(el=>el.classList.remove('active'));document.getElementById('pi-'+p).classList.add('active');loadSuggestions(p)}function loadSuggestions(p){const list=document.getElementById('sugg-list');list.innerHTML='';personas[p].suggestions.forEach(s=>{const d=document.createElement('div');d.className='sugg-item';d.textContent=s;d.onclick=()=>{document.getElementById('msg-input').value=s;document.getElementById('msg-input').focus()};list.appendChild(d)})}function loadFile(e){const file=e.target.files[0];if(!file)return;docName=file.name;const reader=new FileReader();reader.onload=ev=>{docContent=ev.target.result;document.getElementById('doc-banner').classList.add('show');document.getElementById('doc-name-banner').textContent=docName;document.getElementById('doc-info').classList.add('show');const words=docContent.trim().split(/\s+/).length;document.getElementById('doc-words').textContent=words>999?(words/1000).toFixed(1)+'k':words;document.getElementById('doc-chars').textContent=docContent.length>999?(docContent.length/1000).toFixed(1)+'k':docContent.length};reader.readAsText(file);e.target.value=''}function clearDoc(){docContent=null;docName=null;document.getElementById('doc-banner').classList.remove('show');document.getElementById('doc-info').classList.remove('show')}function clearConv(){conversation=[];const msgs=document.getElementById('messages');msgs.innerHTML='<div id="welcome"><div class="welcome-logo">NEXUS</div><div class="welcome-sub">Intelligence Critique Sans Filtre</div><div class="welcome-hint">Choisissez un agent, posez une question.</div></div><div id="loading"><div class="radar"></div><span>ANALYSE EN COURS...</span></div>'}function addMessage(role,text,histIdx){const welcome=document.getElementById('welcome');if(welcome)welcome.remove();const loading=document.getElementById('loading');const p=personas[currentPersona];const div=document.createElement('div');div.className='msg '+role;const hdr=document.createElement('div');hdr.className='msg-header';hdr.textContent=role==='user'?'▸ VOUS':'▸ '+p.name;if(role==='ai'&&histIdx!==undefined){const star=document.createElement('span');star.textContent=' ★';star.style.cursor='pointer';star.style.marginLeft='0.5rem';star.style.color=favorites.some(f=>f.idx===histIdx)?'#ffd700':'var(--dim)';star.onclick=()=>toggleFav(histIdx,star);hdr.appendChild(star)}const bubble=document.createElement('div');bubble.className='msg-bubble';bubble.innerHTML=text.replace(/\n/g,'<br>');div.appendChild(hdr);div.appendChild(bubble);const msgs=document.getElementById('messages');msgs.insertBefore(div,loading);msgs.scrollTop=msgs.scrollHeight}async function sendMessage(){const input=document.getElementById('msg-input');const question=input.value.trim();if(!question)return;const key=getKey();if(!key){openModal();return}input.value='';input.style.height='auto';document.getElementById('send-btn').disabled=true;let userContent=question;if(docContent){const excerpt=docContent.substring(0,6000);userContent=`[DOCUMENT: ${docName}]\n${excerpt}\n\n[QUESTION]: ${question}`}conversation.push({role:'user',content:userContent});addMessage('user',question);const loading=document.getElementById('loading');loading.classList.add('show');const p=personas[currentPersona];try{const res=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'Content-Type':'application/json','x-api-key':key,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},body:JSON.stringify({model:'claude-sonnet-4-20250514',max_tokens:1000,system:p.system,messages:conversation})});const data=await res.json();const reply=data.content?.map(b=>b.text||'').join('')||'Erreur de réponse.';conversation.push({role:'assistant',content:reply});const entry={persona:currentPersona,personaName:p.name,question,answer:reply,time:new Date().toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'}),date:new Date().toLocaleDateString('fr-FR')};history.unshift(entry);if(history.length>50)history.pop();localStorage.setItem('nexus_history',JSON.stringify(history));loading.classList.remove('show');addMessage('ai',reply,0);renderHistory()}catch(err){loading.classList.remove('show');addMessage('ai','⚠ Erreur de connexion. Vérifiez votre clé API.');}document.getElementById('send-btn').disabled=false}function renderHistory(){const c=document.getElementById('hist-container');if(!history.length)return;c.innerHTML='';history.forEach((h,i)=>{const d=document.createElement('div');d.className='hist-item';const isFav=favorites.some(f=>f.question===h.question&&f.date===h.date);d.innerHTML=`<div class="hist-persona">${h.personaName} <span class="hist-fav ${isFav?'on':''}" onclick="toggleFavFromHist(${i},this)">★</span></div><div class="hist-q">${h.question.substring(0,80)}${h.question.length>80?'…':''}</div><div class="hist-time">${h.date} · ${h.time}</div>`;d.querySelector('.hist-q').onclick=()=>{document.getElementById('msg-input').value=h.question;selectPersona(h.persona)};c.appendChild(d)})}function toggleFav(idx,starEl){const entry=history[idx];if(!entry)return;const fi=favorites.findIndex(f=>f.question===entry.question&&f.date===entry.date);if(fi>=0){favorites.splice(fi,1);starEl.style.color='var(--dim)'}else{favorites.unshift({...entry});starEl.style.color='#ffd700';starEl.style.textShadow='0 0 8px #ffd700'}localStorage.setItem('nexus_favorites',JSON.stringify(favorites));renderFavs()}function toggleFavFromHist(i,el){const h=history[i];const fi=favorites.findIndex(f=>f.question===h.question&&f.date===h.date);if(fi>=0){favorites.splice(fi,1);el.classList.remove('on')}else{favorites.unshift({...h});el.classList.add('on')}localStorage.setItem('nexus_favorites',JSON.stringify(favorites));renderFavs()}function renderFavs(){const c=document.getElementById('fav-list');const empty=document.getElementById('fav-empty');if(!favorites.length){c.innerHTML='';c.appendChild(empty);return}c.innerHTML='';favorites.forEach(f=>{const d=document.createElement('div');d.className='fav-item';d.innerHTML=`<div class="fav-persona">★ ${f.personaName}</div>${f.question.substring(0,100)}${f.question.length>100?'…':''}`;d.onclick=()=>{document.getElementById('msg-input').value=f.question;selectPersona(f.persona)};c.appendChild(d)})}document.getElementById('msg-input').addEventListener('input',function(){this.style.height='auto';this.style.height=Math.min(this.scrollHeight,150)+'px'});document.getElementById('msg-input').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage()}});updateStatus();loadSuggestions('socrate');renderHistory();renderFavs();if(!getKey())openModal();</script></body></html>
+!<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Agora — Pensez librement</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmI5MjNjIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZDk3NzA2Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InNoIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjI0IiBmaWxsPSJ1cmwoI2JnKSIvPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSIyNCIgZmlsbD0idXJsKCNzaCkiLz48cmVjdCB4PSIxOCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSIzMSIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI0NCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI1NyIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI3MCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cG9seWdvbiBwb2ludHM9IjEyLDM0IDUwLDE2IDg4LDM0IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjEyIiB5PSI3MCIgd2lkdGg9Ijc2IiBoZWlnaHQ9IjYiIHJ4PSIyIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjgiIHk9Ijc2IiB3aWR0aD0iODQiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjciLz48L3N2Zz4K">
+<meta name="theme-color" content="#f97316">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Agora">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --cream: #fdf8f2;
+  --cream2: #f5ede0;
+  --warm: #ede0cc;
+  --border: #e8d5bb;
+  --orange: #f97316;
+  --orange2: #ea6a0a;
+  --amber: #d97706;
+  --brown: #92400e;
+  --text: #1c1208;
+  --text2: #78583a;
+  --text3: #b08060;
+  --white: #ffffff;
+  --shadow: 0 2px 16px rgba(180,100,30,0.10);
+  --shadow2: 0 4px 32px rgba(180,100,30,0.16);
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { height:100%; overflow:hidden; }
+
+body {
+  background: var(--cream);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* ── API MODAL ── */
+#api-modal {
+  display: none;
+  position: fixed; inset: 0;
+  background: rgba(28,18,8,0.55);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(6px);
+}
+#api-modal.show { display: flex; }
+
+.modal-card {
+  background: var(--white);
+  border-radius: 20px;
+  padding: 2.5rem;
+  max-width: 460px; width: 92%;
+  box-shadow: var(--shadow2);
+}
+
+.modal-logo {
+  width: 52px; height: 52px;
+  background: var(--orange);
+  border-radius: 14px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem; color: white; font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.modal-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem; font-weight: 700;
+  color: var(--text); margin-bottom: 0.5rem;
+}
+
+.modal-sub {
+  font-size: 0.85rem; color: var(--text2);
+  line-height: 1.7; margin-bottom: 1.5rem;
+}
+.modal-sub a { color: var(--orange); text-decoration: none; font-weight: 500; }
+
+.modal-input {
+  width: 100%;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.9rem;
+  color: var(--text);
+  background: var(--cream);
+  outline: none;
+  transition: border 0.2s;
+  margin-bottom: 0.5rem;
+}
+.modal-input:focus { border-color: var(--orange); }
+.modal-error { display: none; color: #dc2626; font-size: 0.75rem; margin-bottom: 0.8rem; }
+
+.modal-btns { display: flex; gap: 0.8rem; margin-top: 1.2rem; }
+
+.btn-orange {
+  background: var(--orange);
+  color: white; border: none;
+  border-radius: 10px;
+  padding: 0.8rem 1.8rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.9rem; font-weight: 600;
+  cursor: pointer; transition: background 0.2s;
+}
+.btn-orange:hover { background: var(--orange2); }
+
+.btn-ghost {
+  background: transparent;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  color: var(--text2);
+  padding: 0.8rem 1.4rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.9rem; cursor: pointer;
+  transition: all 0.2s;
+}
+.btn-ghost:hover { border-color: var(--text2); }
+
+/* ── SIDEBAR ── */
+#sidebar {
+  position: fixed; left: 0; top: 0; bottom: 0;
+  width: 280px;
+  background: var(--white);
+  border-right: 1px solid var(--border);
+  display: flex; flex-direction: column;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  z-index: 100;
+  box-shadow: var(--shadow2);
+}
+#sidebar.open { transform: translateX(0); }
+
+.sidebar-header {
+  padding: 1.5rem 1.2rem 1rem;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 0.8rem;
+}
+
+.logo-mark {
+  width: 36px; height: 36px;
+  background: linear-gradient(135deg, var(--orange), var(--amber));
+  border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem; color: white; font-weight: 700;
+  flex-shrink: 0;
+}
+
+.logo-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem; font-weight: 700;
+  color: var(--text);
+}
+.logo-sub { font-size: 0.65rem; color: var(--text3); letter-spacing: 0.05em; }
+
+.sidebar-section {
+  padding: 1rem 1rem 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text3);
+  font-weight: 600;
+}
+
+/* Agent cards */
+.agent-card {
+  margin: 0.3rem 0.8rem;
+  padding: 0.9rem 1rem;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.18s;
+  border: 1.5px solid transparent;
+  display: flex; align-items: center; gap: 0.8rem;
+}
+.agent-card:hover { background: var(--cream2); }
+.agent-card.active {
+  background: linear-gradient(135deg, rgba(249,115,22,0.08), rgba(217,119,6,0.06));
+  border-color: rgba(249,115,22,0.3);
+}
+
+.agent-avatar {
+  width: 38px; height: 38px; border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.1rem; flex-shrink: 0;
+}
+.agent-card.active .agent-avatar { box-shadow: 0 0 0 2px var(--orange); }
+
+.agent-info { flex: 1; min-width: 0; }
+.agent-name {
+  font-size: 0.88rem; font-weight: 600;
+  color: var(--text); margin-bottom: 0.15rem;
+}
+.agent-card.active .agent-name { color: var(--orange2); }
+.agent-desc { font-size: 0.72rem; color: var(--text3); line-height: 1.3; }
+
+/* History */
+.hist-item {
+  margin: 0.2rem 0.8rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.hist-item:hover { background: var(--cream2); }
+.hist-agent { font-size: 0.6rem; color: var(--orange); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+.hist-q { font-size: 0.78rem; color: var(--text); line-height: 1.4; margin-top: 0.1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.hist-time { font-size: 0.6rem; color: var(--text3); margin-top: 0.2rem; }
+.hist-star { float: right; cursor: pointer; font-size: 0.85rem; }
+.hist-star.on { color: var(--amber); }
+
+.sidebar-scroll { flex: 1; overflow-y: auto; padding-bottom: 1rem; }
+.sidebar-scroll::-webkit-scrollbar { width: 3px; }
+.sidebar-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.sidebar-footer {
+  padding: 1rem 1.2rem;
+  border-top: 1px solid var(--border);
+}
+
+.api-pill {
+  display: flex; align-items: center; gap: 0.6rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  background: var(--cream);
+  cursor: pointer;
+  transition: background 0.15s;
+  border: none; width: 100%;
+  font-family: 'DM Sans', sans-serif;
+}
+.api-pill:hover { background: var(--cream2); }
+.api-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.api-dot.ok { background: #16a34a; box-shadow: 0 0 6px rgba(22,163,74,0.5); }
+.api-dot.off { background: #dc2626; }
+.api-label { font-size: 0.78rem; color: var(--text2); font-weight: 500; }
+
+/* ── OVERLAY ── */
+#overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.3); z-index: 99;
+}
+#overlay.show { display: block; }
+
+/* ── MAIN ── */
+#main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ── TOPBAR ── */
+#topbar {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 0 1rem;
+  height: 58px;
+  display: flex; align-items: center; gap: 1rem;
+  flex-shrink: 0;
+  box-shadow: 0 1px 8px rgba(180,100,30,0.06);
+}
+
+.menu-btn {
+  background: none; border: none;
+  cursor: pointer; padding: 0.4rem;
+  border-radius: 8px; color: var(--text2);
+  font-size: 1.2rem; display: flex;
+  align-items: center;
+  transition: background 0.15s;
+}
+.menu-btn:hover { background: var(--cream2); }
+
+.topbar-agent {
+  display: flex; align-items: center; gap: 0.6rem;
+  flex: 1;
+}
+.topbar-avatar {
+  width: 30px; height: 30px; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.9rem;
+}
+.topbar-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem; font-weight: 700; color: var(--text);
+}
+.topbar-role { font-size: 0.68rem; color: var(--text3); }
+
+.new-chat-btn {
+  background: var(--orange);
+  color: white; border: none;
+  border-radius: 8px;
+  padding: 0.45rem 1rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.78rem; font-weight: 600;
+  cursor: pointer; transition: background 0.2s;
+  white-space: nowrap;
+}
+.new-chat-btn:hover { background: var(--orange2); }
+
+/* ── MESSAGES ── */
+#messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+#messages::-webkit-scrollbar { width: 4px; }
+#messages::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+/* Welcome */
+#welcome {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  text-align: center;
+  gap: 1.2rem;
+  min-height: 300px;
+}
+
+.welcome-icon {
+  width: 72px; height: 72px;
+  background: linear-gradient(135deg, var(--orange), var(--amber));
+  border-radius: 20px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2rem; color: white; font-weight: 700;
+  box-shadow: 0 8px 24px rgba(249,115,22,0.35);
+}
+
+.welcome-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem; font-weight: 700;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.welcome-sub {
+  font-size: 0.88rem; color: var(--text2);
+  line-height: 1.7; max-width: 340px;
+}
+
+.suggestions {
+  display: flex; flex-direction: column; gap: 0.5rem;
+  width: 100%; max-width: 380px;
+  margin-top: 0.5rem;
+}
+
+.sugg-btn {
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.8rem; color: var(--text2);
+  cursor: pointer; text-align: left;
+  transition: all 0.18s; line-height: 1.4;
+}
+.sugg-btn:hover {
+  border-color: var(--orange);
+  color: var(--orange2);
+  background: rgba(249,115,22,0.04);
+}
+
+/* Messages */
+.msg { display: flex; flex-direction: column; gap: 0.3rem; animation: fadeUp 0.25s ease; }
+@keyframes fadeUp { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+
+.msg.user { align-items: flex-end; }
+.msg.ai { align-items: flex-start; }
+
+.msg-meta {
+  font-size: 0.65rem; color: var(--text3);
+  display: flex; align-items: center; gap: 0.4rem;
+  padding: 0 0.3rem;
+}
+.msg-meta .avatar {
+  width: 18px; height: 18px; border-radius: 5px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.6rem;
+}
+
+.msg-bubble {
+  max-width: 88%;
+  padding: 0.9rem 1.1rem;
+  border-radius: 16px;
+  font-size: 0.88rem;
+  line-height: 1.75;
+}
+
+.msg.user .msg-bubble {
+  background: linear-gradient(135deg, var(--orange), var(--amber));
+  color: white;
+  border-radius: 16px 16px 4px 16px;
+}
+
+.msg.ai .msg-bubble {
+  background: var(--white);
+  color: var(--text);
+  border: 1.5px solid var(--border);
+  border-radius: 4px 16px 16px 16px;
+  box-shadow: var(--shadow);
+}
+
+.msg-actions {
+  display: flex; gap: 0.5rem; padding: 0 0.3rem;
+}
+.msg-action {
+  font-size: 0.65rem; color: var(--text3);
+  cursor: pointer; padding: 0.2rem 0.4rem;
+  border-radius: 4px; transition: all 0.15s;
+  background: none; border: none;
+  font-family: 'DM Sans', sans-serif;
+}
+.msg-action:hover { color: var(--orange); background: rgba(249,115,22,0.08); }
+.msg-action.starred { color: var(--amber); }
+
+/* Doc badge */
+#doc-badge {
+  display: none;
+  margin: 0 1rem;
+  padding: 0.6rem 1rem;
+  background: rgba(249,115,22,0.08);
+  border: 1.5px solid rgba(249,115,22,0.25);
+  border-radius: 10px;
+  font-size: 0.78rem; color: var(--orange2);
+  align-items: center; gap: 0.6rem;
+  flex-shrink: 0;
+}
+#doc-badge.show { display: flex; }
+.doc-badge-name { flex: 1; font-weight: 500; }
+.doc-badge-close { background: none; border: none; cursor: pointer; color: var(--text3); font-size: 0.9rem; }
+
+/* Loading */
+#loading {
+  display: none;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 0 0.3rem;
+}
+#loading.show { display: flex; }
+.loading-bubble {
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: 4px 16px 16px 16px;
+  padding: 0.9rem 1.2rem;
+  display: flex; gap: 5px; align-items: center;
+  box-shadow: var(--shadow);
+}
+.dot { width: 7px; height: 7px; border-radius: 50%; background: var(--orange); opacity: 0.4; animation: dotPulse 1.2s ease-in-out infinite; }
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+@keyframes dotPulse { 0%,60%,100%{opacity:0.2;transform:scale(0.8)} 30%{opacity:1;transform:scale(1)} }
+
+/* ── INPUT AREA ── */
+#input-wrap {
+  background: var(--white);
+  border-top: 1px solid var(--border);
+  padding: 0.8rem 1rem;
+  flex-shrink: 0;
+}
+
+.input-box {
+  background: var(--cream);
+  border: 1.5px solid var(--border);
+  border-radius: 14px;
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5rem;
+  padding: 0.6rem 0.8rem;
+  transition: border 0.2s;
+}
+.input-box:focus-within { border-color: var(--orange); background: var(--white); }
+
+#msg-input {
+  flex: 1; background: transparent; border: none; outline: none;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.9rem; color: var(--text);
+  resize: none; min-height: 24px; max-height: 120px;
+  line-height: 1.5; padding: 0.2rem 0;
+}
+#msg-input::placeholder { color: var(--text3); }
+
+.input-actions { display: flex; align-items: center; gap: 0.3rem; }
+
+.upload-btn {
+  background: none; border: none;
+  cursor: pointer; padding: 0.3rem;
+  border-radius: 6px; color: var(--text3);
+  font-size: 1rem; transition: all 0.15s;
+  line-height: 1;
+}
+.upload-btn:hover { color: var(--orange); background: rgba(249,115,22,0.08); }
+
+.send-btn {
+  width: 34px; height: 34px;
+  background: var(--orange);
+  border: none; border-radius: 8px;
+  color: white; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.9rem;
+  transition: all 0.2s; flex-shrink: 0;
+}
+.send-btn:hover { background: var(--orange2); }
+.send-btn:disabled { background: var(--border); cursor: not-allowed; }
+
+.input-hint {
+  font-size: 0.65rem; color: var(--text3);
+  text-align: center; margin-top: 0.5rem;
+}
+
+#file-input { display: none; }
+
+/* Tabs in sidebar */
+.stabs {
+  display: flex;
+  border-bottom: 1px solid var(--border);
+  margin-top: 0.5rem;
+}
+.stab {
+  flex: 1; padding: 0.6rem 0;
+  font-size: 0.7rem; font-weight: 600;
+  text-align: center; cursor: pointer;
+  color: var(--text3); border-bottom: 2px solid transparent;
+  transition: all 0.15s; background: none; border-top: none; border-left: none; border-right: none;
+  font-family: 'DM Sans', sans-serif; letter-spacing: 0.05em;
+}
+.stab.active { color: var(--orange); border-bottom-color: var(--orange); }
+
+.stab-content { display: none; }
+.stab-content.active { display: block; }
+
+.empty-msg {
+  padding: 2rem 1rem; text-align: center;
+  font-size: 0.78rem; color: var(--text3); line-height: 1.7;
+}
+
+@media (min-width: 700px) {
+  #sidebar { transform: translateX(0); position: relative; flex-shrink: 0; box-shadow: none; }
+  #overlay { display: none !important; }
+  #main { margin-left: 0; }
+  body { flex-direction: row; }
+  .menu-btn { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- API Modal -->
+<div id="api-modal">
+  <div class="modal-card">
+    <div class="modal-logo">A</div>
+    <div class="modal-title">Bienvenue sur Agora</div>
+    <p class="modal-sub">
+      Pour activer l'intelligence de vos conseillers, entrez votre clé API Anthropic.<br><br>
+      → Obtenez-la gratuitement sur <a href="https://console.anthropic.com" target="_blank">console.anthropic.com</a> → <strong>API Keys</strong><br>
+      → Elle est stockée sur votre appareil uniquement. Jamais partagée.
+    </p>
+    <input id="api-key-input" class="modal-input" type="password" placeholder="sk-ant-...">
+    <div id="api-error" class="modal-error">⚠ Format invalide — la clé doit commencer par "sk-"</div>
+    <div class="modal-btns">
+      <button class="btn-orange" onclick="confirmKey()">Activer Agora</button>
+      <button class="btn-ghost" onclick="closeModal()">Plus tard</button>
+    </div>
+  </div>
+</div>
+
+<!-- Overlay mobile -->
+<div id="overlay" onclick="closeSidebar()"></div>
+
+<!-- Sidebar -->
+<div id="sidebar">
+  <div class="sidebar-header">
+    <div class="logo-mark" style="padding:4px;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmI5MjNjIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZDk3NzA2Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InNoIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjI0IiBmaWxsPSJ1cmwoI2JnKSIvPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSIyNCIgZmlsbD0idXJsKCNzaCkiLz48cmVjdCB4PSIxOCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSIzMSIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI0NCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI1NyIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI3MCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cG9seWdvbiBwb2ludHM9IjEyLDM0IDUwLDE2IDg4LDM0IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjEyIiB5PSI3MCIgd2lkdGg9Ijc2IiBoZWlnaHQ9IjYiIHJ4PSIyIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjgiIHk9Ijc2IiB3aWR0aD0iODQiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjciLz48L3N2Zz4K" style="width:100%;height:100%;object-fit:contain;"></div>
+    <div>
+      <div class="logo-text">Agora</div>
+      <div class="logo-sub">Pensez librement</div>
+    </div>
+  </div>
+
+  <div class="stabs">
+    <button class="stab active" onclick="switchStab('agents')">Conseillers</button>
+    <button class="stab" onclick="switchStab('history')">Historique</button>
+    <button class="stab" onclick="switchStab('favs')">★ Favoris</button>
+  </div>
+
+  <div class="sidebar-scroll">
+
+    <!-- Agents tab -->
+    <div class="stab-content active" id="stab-agents">
+      <div class="sidebar-section">Choisissez votre conseiller</div>
+
+      <div class="agent-card active" id="ag-socrate" onclick="selectAgent('socrate')">
+        <div class="agent-avatar" style="background:#fff3e0;">🗿</div>
+        <div class="agent-info">
+          <div class="agent-name">Socrate</div>
+          <div class="agent-desc">Déconstruit vos certitudes par le questionnement</div>
+        </div>
+      </div>
+
+      <div class="agent-card" id="ag-diogene" onclick="selectAgent('diogene')">
+        <div class="agent-avatar" style="background:#fce7f3;">🪔</div>
+        <div class="agent-info">
+          <div class="agent-name">Diogène</div>
+          <div class="agent-desc">Renverse les conventions, dit la vérité qui dérange</div>
+        </div>
+      </div>
+
+      <div class="agent-card" id="ag-voltaire" onclick="selectAgent('voltaire')">
+        <div class="agent-avatar" style="background:#e0f2fe;">🔎</div>
+        <div class="agent-info">
+          <div class="agent-name">Voltaire</div>
+          <div class="agent-desc">Analyse, enquête, démonte les arguments avec ironie</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- History tab -->
+    <div class="stab-content" id="stab-history">
+      <div id="hist-list">
+        <div class="empty-msg" id="hist-empty">Aucune conversation pour l'instant.<br>Posez votre première question !</div>
+      </div>
+    </div>
+
+    <!-- Favs tab -->
+    <div class="stab-content" id="stab-favs">
+      <div id="fav-list">
+        <div class="empty-msg" id="fav-empty">Aucun favori.<br>Cliquez ★ sur une réponse pour la sauvegarder.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="sidebar-footer">
+    <button class="api-pill" onclick="openModal()">
+      <div class="api-dot off" id="api-dot"></div>
+      <span class="api-label" id="api-label">Configurer la clé API</span>
+    </button>
+  </div>
+</div>
+
+<!-- Main -->
+<div id="main">
+
+  <!-- Topbar -->
+  <div id="topbar">
+    <button class="menu-btn" onclick="toggleSidebar()">☰</button>
+    <div class="topbar-agent">
+      <div class="topbar-avatar" id="tb-avatar" style="background:#fff3e0;">🗿</div>
+      <div>
+        <div class="topbar-name" id="tb-name">Socrate</div>
+        <div class="topbar-role" id="tb-role">Maïeutique & questionnement</div>
+      </div>
+    </div>
+    <button class="new-chat-btn" onclick="newChat()">+ Nouvelle discussion</button>
+  </div>
+
+  <!-- Doc badge -->
+  <div id="doc-badge">
+    <span>📄</span>
+    <span class="doc-badge-name" id="doc-name">—</span>
+    <button class="doc-badge-close" onclick="clearDoc()">✕</button>
+  </div>
+
+  <!-- Messages -->
+  <div id="messages">
+    <div id="welcome">
+      <div class="welcome-icon" style="padding:10px;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmI5MjNjIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZDk3NzA2Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InNoIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjI0IiBmaWxsPSJ1cmwoI2JnKSIvPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSIyNCIgZmlsbD0idXJsKCNzaCkiLz48cmVjdCB4PSIxOCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSIzMSIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI0NCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI1NyIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI3MCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cG9seWdvbiBwb2ludHM9IjEyLDM0IDUwLDE2IDg4LDM0IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjEyIiB5PSI3MCIgd2lkdGg9Ijc2IiBoZWlnaHQ9IjYiIHJ4PSIyIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjgiIHk9Ijc2IiB3aWR0aD0iODQiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjciLz48L3N2Zz4K" style="width:100%;height:100%;object-fit:contain;"></div>
+      <div class="welcome-title">Bienvenue sur Agora</div>
+      <div class="welcome-sub">Un espace de pensée libre où trois esprits d'exception vous accompagnent. Aucune question n'est interdite.</div>
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="loading">
+      <div class="loading-bubble">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Input -->
+  <div id="input-wrap">
+    <div class="input-box">
+      <textarea id="msg-input" rows="1" placeholder="Posez votre question à votre conseiller..."></textarea>
+      <div class="input-actions">
+        <button class="upload-btn" onclick="document.getElementById('file-input').click()" title="Joindre un document">📎</button>
+        <button class="send-btn" id="send-btn" onclick="sendMessage()">➤</button>
+      </div>
+    </div>
+    <input type="file" id="file-input" accept=".txt,.md,.pdf" onchange="loadFile(event)">
+    <div class="input-hint">Entrée pour envoyer · Maj+Entrée pour un saut de ligne</div>
+  </div>
+
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────
+let currentAgent = 'socrate';
+let conversation = [];
+let docContent = null, docName = null;
+let history = JSON.parse(localStorage.getItem('agora_history') || '[]');
+let favorites = JSON.parse(localStorage.getItem('agora_favorites') || '[]');
+
+// ── Agents ─────────────────────────────────────────
+const agents = {
+  socrate: {
+    name: 'Socrate',
+    role: 'Maïeutique & questionnement',
+    avatar: '🗿',
+    avatarBg: '#fff3e0',
+    suggestions: [
+      'La liberté peut-elle exister sans responsabilité ?',
+      'Qu\'est-ce que vraiment "réussir sa vie" ?',
+      'Peut-on être heureux dans une société injuste ?',
+      'L\'intelligence artificielle peut-elle penser ?'
+    ],
+    system: `Tu es Socrate, le philosophe grec. Tu aides les gens à penser par eux-mêmes grâce à la maïeutique.
+
+STYLE : Bienveillant mais incisif. Tu poses des questions qui font réfléchir, tu déconstruis les évidences sans agressivité. Tu es un guide, pas un juge.
+
+RÈGLES :
+- Tu explores tous les sujets sans tabou, avec sagesse
+- Tu conclus chaque réponse par une question ouverte qui invite à aller plus loin
+- Tu utilises des exemples concrets et accessibles
+- Réponses en français, 250-350 mots, ton philosophique mais accessible
+- Si un document est fourni, tu l'analyses avec le même esprit critique
+- Tu ne prends jamais de position définitive — tu accompagnes la réflexion`
+  },
+  diogene: {
+    name: 'Diogène',
+    role: 'Vérité brute & liberté de pensée',
+    avatar: '🪔',
+    avatarBg: '#fce7f3',
+    suggestions: [
+      'La politesse est-elle une forme de mensonge ?',
+      'Les réseaux sociaux nous rendent-ils plus libres ou plus esclaves ?',
+      'Pourquoi obéit-on à des lois qu\'on n\'a pas choisies ?',
+      'Le confort est-il l\'ennemi de la pensée ?'
+    ],
+    system: `Tu es Diogène de Sinope, le philosophe cynique qui vivait dans un tonneau et disait tout haut ce que les autres pensent tout bas.
+
+STYLE : Direct, sans détour, parfois provocateur mais jamais cruel. Tu aimes renverser les conventions et montrer l'absurdité des comportements humains.
+
+RÈGLES :
+- Tu dis la vérité même quand elle est inconfortable
+- Tu questionnes les normes sociales, politiques, morales avec audace
+- Tu utilises l'humour et l'ironie pour faire passer des vérités profondes
+- Réponses en français, 250-350 mots, ton franc et vivant
+- Si un document est fourni, tu le passes au crible sans complaisance
+- Tu n'as pas de vache sacrée mais tu restes constructif`
+  },
+  voltaire: {
+    name: 'Voltaire',
+    role: 'Analyse critique & enquête',
+    avatar: '🔎',
+    avatarBg: '#e0f2fe',
+    suggestions: [
+      'Les médias sont-ils vraiment indépendants ?',
+      'Peut-on faire confiance aux experts ?',
+      'La démocratie produit-elle les meilleurs dirigeants ?',
+      'Le progrès technique améliore-t-il vraiment nos vies ?'
+    ],
+    system: `Tu es Voltaire, l'écrivain et philosophe des Lumières, champion de la raison, de la tolérance et de la liberté d'expression.
+
+STYLE : Brillant, ironique, rigoureux. Tu examines les faits, démontres les contradictions, démythifie les discours avec élégance.
+
+RÈGLES :
+- Tu analyses toutes les positions avec rigueur et sans parti pris
+- Tu identifies les intérêts cachés, les contradictions, les arguments fallacieux
+- Tu distingues faits et opinions avec clarté
+- Réponses en français, 250-350 mots, style vif et précis
+- Si un document est fourni, tu fais un audit critique et argumenté
+- Tu peux être mordant mais toujours dans l'intérêt de la vérité`
+  }
+};
+
+// ── API Key ─────────────────────────────────────────
+function getKey() { return localStorage.getItem('agora_key') || ''; }
+function openModal() { document.getElementById('api-modal').classList.add('show'); document.getElementById('api-key-input').value = getKey(); }
+function closeModal() { document.getElementById('api-modal').classList.remove('show'); }
+function confirmKey() {
+  const v = document.getElementById('api-key-input').value.trim();
+  if (!v.startsWith('sk-')) { document.getElementById('api-error').style.display = 'block'; return; }
+  localStorage.setItem('agora_key', v);
+  document.getElementById('api-error').style.display = 'none';
+  closeModal(); updateStatus();
+}
+function updateStatus() {
+  const k = getKey();
+  const dot = document.getElementById('api-dot');
+  const label = document.getElementById('api-label');
+  if (k) { dot.className = 'api-dot ok'; label.textContent = 'Clé API active'; }
+  else { dot.className = 'api-dot off'; label.textContent = 'Configurer la clé API'; }
+}
+
+// ── Sidebar ─────────────────────────────────────────
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('show');
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('overlay').classList.remove('show');
+}
+
+// ── Tabs ─────────────────────────────────────────────
+function switchStab(t) {
+  document.querySelectorAll('.stab').forEach((b,i) => b.classList.toggle('active', ['agents','history','favs'][i] === t));
+  document.querySelectorAll('.stab-content').forEach((c,i) => c.classList.toggle('active', ['stab-agents','stab-history','stab-favs'][i] === 'stab-'+t));
+}
+
+// ── Agent ─────────────────────────────────────────────
+function selectAgent(a) {
+  currentAgent = a;
+  document.querySelectorAll('.agent-card').forEach(c => c.classList.remove('active'));
+  document.getElementById('ag-'+a).classList.add('active');
+  const ag = agents[a];
+  document.getElementById('tb-avatar').textContent = ag.avatar;
+  document.getElementById('tb-avatar').style.background = ag.avatarBg;
+  document.getElementById('tb-name').textContent = ag.name;
+  document.getElementById('tb-role').textContent = ag.role;
+  loadSuggestions(a);
+  closeSidebar();
+}
+
+function loadSuggestions(a) {
+  const el = document.getElementById('suggestions');
+  el.innerHTML = '';
+  agents[a].suggestions.forEach(s => {
+    const b = document.createElement('button');
+    b.className = 'sugg-btn';
+    b.textContent = s;
+    b.onclick = () => { document.getElementById('msg-input').value = s; sendMessage(); };
+    el.appendChild(b);
+  });
+}
+
+// ── Document ──────────────────────────────────────────
+function loadFile(e) {
+  const file = e.target.files[0]; if (!file) return;
+  docName = file.name;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    docContent = ev.target.result;
+    document.getElementById('doc-badge').classList.add('show');
+    document.getElementById('doc-name').textContent = docName;
+  };
+  reader.readAsText(file);
+  e.target.value = '';
+}
+function clearDoc() {
+  docContent = null; docName = null;
+  document.getElementById('doc-badge').classList.remove('show');
+}
+
+// ── Chat ──────────────────────────────────────────────
+function newChat() {
+  conversation = [];
+  const msgs = document.getElementById('messages');
+  msgs.innerHTML = '';
+  const welcome = document.createElement('div');
+  welcome.id = 'welcome';
+  welcome.innerHTML = `
+    <div class="welcome-icon" style="padding:10px;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmI5MjNjIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZDk3NzA2Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InNoIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjI0IiBmaWxsPSJ1cmwoI2JnKSIvPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiIHJ4PSIyNCIgZmlsbD0idXJsKCNzaCkiLz48cmVjdCB4PSIxOCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSIzMSIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI0NCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI1NyIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cmVjdCB4PSI3MCIgeT0iMzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48cG9seWdvbiBwb2ludHM9IjEyLDM0IDUwLDE2IDg4LDM0IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjEyIiB5PSI3MCIgd2lkdGg9Ijc2IiBoZWlnaHQ9IjYiIHJ4PSIyIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxyZWN0IHg9IjgiIHk9Ijc2IiB3aWR0aD0iODQiIGhlaWdodD0iNSIgcng9IjIiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjciLz48L3N2Zz4K" style="width:100%;height:100%;object-fit:contain;"></div>
+    <div class="welcome-title">Nouvelle discussion</div>
+    <div class="welcome-sub">Quelle question souhaitez-vous explorer avec ${agents[currentAgent].name} ?</div>
+    <div class="suggestions" id="suggestions"></div>`;
+  const loading = document.createElement('div');
+  loading.id = 'loading';
+  loading.innerHTML = '<div class="loading-bubble"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>';
+  msgs.appendChild(welcome);
+  msgs.appendChild(loading);
+  loadSuggestions(currentAgent);
+  closeSidebar();
+}
+
+function addMsg(role, text, historyIndex) {
+  const welcome = document.getElementById('welcome');
+  if (welcome) welcome.remove();
+  const loading = document.getElementById('loading');
+  const ag = agents[currentAgent];
+
+  const wrap = document.createElement('div');
+  wrap.className = 'msg ' + role;
+
+  const meta = document.createElement('div');
+  meta.className = 'msg-meta';
+  if (role === 'ai') {
+    meta.innerHTML = `<div class="avatar" style="background:${ag.avatarBg}">${ag.avatar}</div><span>${ag.name}</span>`;
+  } else {
+    meta.innerHTML = `<span>Vous</span>`;
+  }
+
+  const bubble = document.createElement('div');
+  bubble.className = 'msg-bubble';
+  bubble.innerHTML = text.replace(/\n/g, '<br>');
+
+  wrap.appendChild(meta);
+  wrap.appendChild(bubble);
+
+  if (role === 'ai') {
+    const actions = document.createElement('div');
+    actions.className = 'msg-actions';
+    const star = document.createElement('button');
+    star.className = 'msg-action';
+    const isFav = historyIndex !== undefined && favorites.some(f => f.idx === historyIndex);
+    star.textContent = isFav ? '★ Sauvegardé' : '☆ Sauvegarder';
+    if (isFav) star.classList.add('starred');
+    star.onclick = () => toggleFav(historyIndex, star);
+    actions.appendChild(star);
+    wrap.appendChild(actions);
+  }
+
+  const msgs = document.getElementById('messages');
+  msgs.insertBefore(wrap, loading);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+// ── Send ──────────────────────────────────────────────
+async function sendMessage() {
+  const input = document.getElementById('msg-input');
+  const q = input.value.trim(); if (!q) return;
+  const key = getKey(); if (!key) { openModal(); return; }
+
+  input.value = ''; input.style.height = 'auto';
+  document.getElementById('send-btn').disabled = true;
+
+  let userContent = q;
+  if (docContent) userContent = `[Document joint : ${docName}]\n${docContent.substring(0,5000)}\n\n[Question] : ${q}`;
+
+  conversation.push({ role: 'user', content: userContent });
+  addMsg('user', q);
+
+  const loading = document.getElementById('loading');
+  loading.classList.add('show');
+  document.getElementById('messages').scrollTop = document.getElementById('messages').scrollHeight;
+
+  const ag = agents[currentAgent];
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': key,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        system: ag.system,
+        messages: conversation
+      })
+    });
+
+    const data = await res.json();
+    const reply = data.content?.map(b => b.text || '').join('') || 'Une erreur est survenue.';
+    conversation.push({ role: 'assistant', content: reply });
+
+    const entry = {
+      agent: currentAgent,
+      agentName: ag.name,
+      question: q,
+      answer: reply,
+      time: new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }),
+      date: new Date().toLocaleDateString('fr-FR')
+    };
+    history.unshift(entry);
+    if (history.length > 50) history.pop();
+    localStorage.setItem('agora_history', JSON.stringify(history));
+
+    loading.classList.remove('show');
+    addMsg('ai', reply, 0);
+    renderHistory();
+
+  } catch(err) {
+    loading.classList.remove('show');
+    addMsg('ai', '⚠️ Erreur de connexion. Vérifiez votre clé API et réessayez.');
+  }
+
+  document.getElementById('send-btn').disabled = false;
+}
+
+// ── History ───────────────────────────────────────────
+function renderHistory() {
+  const c = document.getElementById('hist-list');
+  if (!history.length) { c.innerHTML = '<div class="empty-msg">Aucune conversation pour l\'instant.</div>'; return; }
+  c.innerHTML = '';
+  history.forEach((h, i) => {
+    const d = document.createElement('div');
+    d.className = 'hist-item';
+    const isFav = favorites.some(f => f.question === h.question && f.date === h.date);
+    d.innerHTML = `
+      <div class="hist-agent">${h.agentName} <span class="hist-star ${isFav?'on':''}" onclick="toggleFavHist(${i},this)">★</span></div>
+      <div class="hist-q">${h.question}</div>
+      <div class="hist-time">${h.date} · ${h.time}</div>`;
+    d.querySelector('.hist-q').onclick = () => {
+      document.getElementById('msg-input').value = h.question;
+      selectAgent(h.agent);
+      closeSidebar();
+    };
+    c.appendChild(d);
+  });
+}
+
+// ── Favorites ─────────────────────────────────────────
+function toggleFav(idx, btn) {
+  const entry = history[idx]; if (!entry) return;
+  const fi = favorites.findIndex(f => f.question === entry.question && f.date === entry.date);
+  if (fi >= 0) { favorites.splice(fi, 1); btn.textContent = '☆ Sauvegarder'; btn.classList.remove('starred'); }
+  else { favorites.unshift({...entry}); btn.textContent = '★ Sauvegardé'; btn.classList.add('starred'); }
+  localStorage.setItem('agora_favorites', JSON.stringify(favorites));
+  renderFavs();
+}
+
+function toggleFavHist(i, el) {
+  const h = history[i];
+  const fi = favorites.findIndex(f => f.question === h.question && f.date === h.date);
+  if (fi >= 0) { favorites.splice(fi, 1); el.classList.remove('on'); }
+  else { favorites.unshift({...h}); el.classList.add('on'); }
+  localStorage.setItem('agora_favorites', JSON.stringify(favorites));
+  renderFavs();
+}
+
+function renderFavs() {
+  const c = document.getElementById('fav-list');
+  if (!favorites.length) { c.innerHTML = '<div class="empty-msg">Aucun favori.<br>Cliquez ★ sur une réponse.</div>'; return; }
+  c.innerHTML = '';
+  favorites.forEach(f => {
+    const d = document.createElement('div');
+    d.className = 'hist-item';
+    d.innerHTML = `<div class="hist-agent">★ ${f.agentName}</div><div class="hist-q">${f.question}</div><div class="hist-time">${f.date}</div>`;
+    d.onclick = () => { document.getElementById('msg-input').value = f.question; selectAgent(f.agent); closeSidebar(); };
+    c.appendChild(d);
+  });
+}
+
+// ── Textarea auto-resize ──────────────────────────────
+document.getElementById('msg-input').addEventListener('input', function() {
+  this.style.height = 'auto';
+  this.style.height = Math.min(this.scrollHeight, 120) + 'px';
+});
+document.getElementById('msg-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMessage(); }
+});
+
+// ── Init ──────────────────────────────────────────────
+updateStatus();
+loadSuggestions('socrate');
+renderHistory();
+renderFavs();
+if (!getKey()) openModal();
+</script>
+</body>
+</html>
